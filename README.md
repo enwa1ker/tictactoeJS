@@ -1,1 +1,1 @@
-# tictactoeJS
+# tic tac toe in JavaScript
